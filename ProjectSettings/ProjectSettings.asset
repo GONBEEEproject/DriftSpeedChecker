@@ -564,7 +564,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: DriftSpeedChecker
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: D:\GONBEEE_project\Unity\DriftSpeedChecker\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
